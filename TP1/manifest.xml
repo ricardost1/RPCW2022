@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+    <meta>
+        <key>RPCW:TPC1</key>
+        <title>TPC1</title>
+        <bdate>17-02-2022</bdate>
+        <edate>22-02-2022</edate>
+        <author>
+            <name>Ricardo José Martins Carvalho</name>
+            <email>pg47613@alunos.uminho.pt</email>
+        </author>
+        <uc>Representação e Processamento de Conhecimento na Web</uc>
+    </meta>
+
+    <abstract>
+        <p>Criação de uma página html</p>
+    </abstract>
+    
+    <deliverables>
+        <link url="./jacaré.html">Pagina html </link>
+    </deliverables>
+</manifest>
